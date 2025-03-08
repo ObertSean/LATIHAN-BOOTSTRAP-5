@@ -2,7 +2,7 @@ body {
   min-height: 2000px;
 }
 .jumbotron {
-  padding-top: 1rem;
+  padding-top: 6rem;
   background-color: #ff0000;
 }
 
@@ -12,4 +12,8 @@ body {
 
 #contact {
   padding-top: 1rem;
+}
+
+footer {
+  background-color: #ff0000;
 }
